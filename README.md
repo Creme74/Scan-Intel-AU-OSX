@@ -29,4 +29,5 @@ The app:
 - Tested on macOS Sierra and macOS Sonoma but should work on any macOS above.
 
 ## Acknowledgments
-Special thanks Vito De Luca my one and only Beta Tester (Team Comics)
+Special thanks Vito De Luca my one and only Beta Tester (Team Audiocomix)
+Middle finger to PDM
